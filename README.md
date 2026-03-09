@@ -1,4 +1,4 @@
-Space SHMUP — Unity Space Shooter Prototype
+Space SHMUP - Unity Space Shooter Prototype
 This is a classic arcade-style space shooter game built in Unity using C#. The player controls a ship that can move within screen bounds, fire projectiles, and defend using a rotating shield while enemies spawn from above.
 
 Features
