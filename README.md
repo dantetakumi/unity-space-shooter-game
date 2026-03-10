@@ -22,6 +22,15 @@ Technologies Used
 - C#
 - Visual Studio
 
+Project Structure
+- Player Controller: Manages ship movement, boundary constraints, and player input
+- Projectile System: Handles firing mechanics, projectile motion, and cleanup outside bounds
+- Enemy Spawn System: Controls timed enemy generation and movement patterns
+- Collision System: Manages interactions between player, enemies, projectiles, and shields
+- Shield System: Controls rotating shield behavior and durability cycling
+- Game Manager: Handles player lives, defeat conditions, and automatic game restart logic
+- Camera System: Maintains gameplay view and screen boundary alignment
+
 What I Learned
 - This project strengthened my understanding of game architecture, object lifecycle management, collision systems, and writing modular scripts in Unity.
 
