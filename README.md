@@ -35,4 +35,4 @@
 - This project strengthened my understanding of game architecture, object lifecycle management, collision systems, and writing modular scripts in Unity.
 
 ### Status
-- Developed and completed gameplay prototype focusing on core mechanics and system design as part of coursework in game development.
+- Developed and completed gameplay prototype focusing on core mechanics and system design.
